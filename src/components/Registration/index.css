@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+@media screen and (max-width: 576px) {
+  .registrationMainContainer {
+    background-image: url('https://res.cloudinary.com/adnansayyed2321/image/upload/v1694929908/pxfuel_2_qw7uhr.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-color: rgb(80, 77, 77);
+    background-blend-mode: multiply;
+    display: flex;
+    flex-direction: column;
+    padding-top: 70px;
+    padding-right: 35px;
+    padding-left: 35px;
+    color: white;
+  }
+  .input-label-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  .labelStyles {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+  .inputStyles {
+    padding-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+  }
+  .registration-heading {
+    margin-bottom: 45px;
+  }
+}

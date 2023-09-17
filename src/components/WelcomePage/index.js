@@ -12,7 +12,7 @@ const WelcomePage = () => (
       className="title-squid-game"
     />
 
-    <Link to="/redlightgreenlight">
+    <Link to="/registration">
       <button type="button" className="wonButton">
         <p>Win 45.6 Billion</p>
         <BsArrowRight className="arrowStyle" />
