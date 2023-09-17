@@ -7,7 +7,7 @@ class Registration extends Component {
     return (
       <div className="registrationMainContainer">
         <h1 className="registration-heading">Registration</h1>
-        <form>
+        <form onSubmit={this.onRegistration}>
           <div className="input-label-container">
             <label htmlFor="playerName" className="labelStyles">
               Name
@@ -39,6 +39,10 @@ class Registration extends Component {
               <option>Pro (Medium)</option>
               <option>Master (Hard)</option>
             </select>
+
+            <button type="submit" className="register-button">
+              Register
+            </button>
           </div>
         </form>
       </div>
