@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+@media screen and (max-width: 576px) {
+  .welcomePageMainContainer {
+    background-image: url('https://res.cloudinary.com/adnansayyed2321/image/upload/v1694929908/pxfuel_2_qw7uhr.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .title-squid-game {
+    width: 340px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .welcomePageMainContainer {
+    background-image: url('https://res.cloudinary.com/adnansayyed2321/image/upload/v1694925746/pxfuel_rvkvfy.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+.arrowStyle {
+  margin-left: 8px;
+  font-size: 25px;
+}
+.wonButton {
+  font-size: 27px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-right: 28px;
+  padding-left: 28px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 20px;
+  background-color: white;
+  color: #dd359c;
+  border-style: solid;
+  border-radius: 7px;
+  border-width: 3px;
+  border-color: #dd359c;
+}
