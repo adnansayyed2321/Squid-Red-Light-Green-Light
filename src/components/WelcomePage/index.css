@@ -50,4 +50,5 @@
   border-width: 3px;
   border-color: #dd359c;
   font-family: 'Lucida Console', 'Courier New', monospace;
+  cursor: pointer;
 }

@@ -16,7 +16,8 @@ Add UI reference image yourself
 <br/>
 Add the design files according to the route (if any) and responsiveness
 
-<!-- - [Extra Small (Size < 576px) and Small (Size >= 576px)](remove this text and add the image URL here)
+https://res.cloudinary.com/adnansayyed2321/image/upload/v1695024960/Screenshot_2023-09-18_134435_tbxh7c.png
+
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](remove this text and add the image URL here) -->
 
 </details>
