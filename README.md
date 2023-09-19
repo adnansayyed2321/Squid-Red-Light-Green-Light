@@ -5,8 +5,7 @@ Write the objective of the assignment yourself
 Add UI reference image yourself
 
 <div style="text-align: center;">
-      <img src="https://res.cloudinary.com/adnansayyed2321/image/upload/v1695024960/Screenshot_2023-09-18_134435_tbxh7c.png
-" alt="ui"> 
+      <img src="https://res.cloudinary.com/adnansayyed2321/image/upload/v1695024960/Screenshot_2023-09-18_134435_tbxh7c.png" alt="ui"> 
 </div>
 <br/>
 
