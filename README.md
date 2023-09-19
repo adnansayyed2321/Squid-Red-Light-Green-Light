@@ -16,6 +16,10 @@ Add UI reference image yourself
 <br/>
 Add the design files according to the route (if any) and responsiveness
 
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)]
+<p>Home Route /Welcome Page</p>
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695104467/Screenshot_2023-09-19_115020_czdb82.png" alt ="home page small">
+
 <div style="text-align: center;">
      <h1>Home Route /Welcome Page</h1>
       <img src="https://res.cloudinary.com/adnansayyed2321/image/upload/v1695024960/Screenshot_2023-09-18_134435_tbxh7c.png" alt="ui"> 
