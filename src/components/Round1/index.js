@@ -4,7 +4,6 @@ import './index.css'
 
 const Round1 = () => {
   const name = Cookies.get('name')
-  console.log(name)
   return (
     <div className="round1MainContainer">
       <h1 className="playerNameRound1">Hi {name} !</h1>
@@ -23,6 +22,16 @@ const Round1 = () => {
           Start Game
         </button>
       </Link>
+      <h1 className="instructions-heading">Instructions</h1>
+      <ol>
+        <li>
+          Click on Green box when appear, if you click on red box then game over
+        </li>
+        <li>For Noob (Easy) you have to score 10 Points</li>
+        <li>For Pro (Medium) you have to score 15 Points</li>
+        <li>For Master (Hard) you have to score 25 Points</li>
+        <li>You will get 40 seconds of time for completing the Game</li>
+      </ol>
     </div>
   )
 }

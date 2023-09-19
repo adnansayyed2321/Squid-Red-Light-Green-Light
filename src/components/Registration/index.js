@@ -32,7 +32,6 @@ class Registration extends Component {
     const {history} = this.props
 
     const {name, difficultyLevel, email, mobile} = this.state
-    console.log(difficultyLevel)
 
     if (
       name === '' ||
