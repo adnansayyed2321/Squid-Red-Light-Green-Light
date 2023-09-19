@@ -37,8 +37,11 @@ Design files according to the route and responsiveness
 <p>Game Over Display Page</p>
 <img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695105375/Screenshot_2023-09-19_120556_soswxz.png" alt ="home page small">
 <br/>
+<br/>
 <p>Winner Display Page</p>
 <img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695105464/Screenshot_2023-09-19_120719_bbloph.png" alt ="home page small">
+<br/>
+<br/>
 <br/>
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)]
 <div style="text-align: center;">
