@@ -1,8 +1,8 @@
-Write the objective of the assignment yourself
+The Publish link of this Squid Game App is as follow, you can access using the given url
 
-### Refer to the image below:
+https://squidsayyed.ccbp.tech/
 
-Add UI reference image yourself
+UI reference image
 
 <div style="text-align: center;">
       <img src="https://res.cloudinary.com/adnansayyed2321/image/upload/v1695024960/Screenshot_2023-09-18_134435_tbxh7c.png" alt="ui"> 
@@ -12,14 +12,16 @@ Add UI reference image yourself
 ### Design Files
 
 <details>
-<summary>Add Route Name</summary>
-<br/>
-Add the design files according to the route (if any) and responsiveness
 
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)]
+<br/>
+Design files according to the route and responsiveness
+
+- Extra Small (Size < 576px), Small (Size >= 576px)
+
 <p>Home Route /Welcome Page</p>
 <img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695104467/Screenshot_2023-09-19_115020_czdb82.png" alt ="home page small">
 
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)]
 <div style="text-align: center;">
      <h1>Home Route /Welcome Page</h1>
       <img src="https://res.cloudinary.com/adnansayyed2321/image/upload/v1695024960/Screenshot_2023-09-18_134435_tbxh7c.png" alt="ui"> 
