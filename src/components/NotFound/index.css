@@ -1,0 +1,31 @@
+@media screen and (max-width: 576px) {
+  .not-found-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .not-found-img {
+    height: 200px;
+  }
+  .not-found-para {
+    font-size: 30px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .not-found-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .not-found-img {
+    height: 400px;
+  }
+  .not-found-para {
+    font-size: 40px;
+  }
+}

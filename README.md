@@ -43,6 +43,12 @@ Design files according to the route and responsiveness
 <br/>
 <br/>
 <br/>
+<br/>
+<p>Not Found Page</p>
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695108437/Screenshot_2023-09-19_125638_azom5z.png" alt ="home page small">
+<br/>
+<br/>
+<br/>
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)]
 <br/>
 <br/>
@@ -68,6 +74,10 @@ Design files according to the route and responsiveness
 <br/>
 <p>Winner Display Page</p>
 <img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695107186/Screenshot_2023-09-19_123559_v0miqx.png" alt ="home page small">
+<br/>
+<br/>
+<p>Not Found Page</p>
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695108434/Screenshot_2023-09-19_125653_bvaedq.pngg" alt ="home page small">
 <br/>
 <br/>
 </details>
