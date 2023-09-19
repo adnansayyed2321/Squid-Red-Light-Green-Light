@@ -46,9 +46,30 @@ Design files according to the route and responsiveness
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)]
 <br/>
 <br/>
-<p>Winner Display Page</p>
+<p>Home Route /Welcome Page</p>
 <img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695024960/Screenshot_2023-09-18_134435_tbxh7c.png" alt ="home page small">
-
+<br/>
+<br/>
+<p>Registration Page</p>
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695106876/Screenshot_2023-09-19_123034_qhcktc.png" alt ="home page small">
+<br/>
+<br/>
+<p>Round 1 and Instructions Display Page</p>
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695106980/Screenshot_2023-09-19_123234_iqzkzk.png" alt ="home page small">
+<br/>
+<br/>
+<p>Green Light Red Light Game Page</p>
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695107042/Screenshot_2023-09-19_123338_u7gtxk.png" alt ="home page small">
+<br/>
+<br/>
+<p>Game Over Display Page</p>
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695107117/Screenshot_2023-09-19_123452_kl0iri.png" alt ="home page small">
+<br/>
+<br/>
+<p>Winner Display Page</p>
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695107117/Screenshot_2023-09-19_123452_kl0iri.png" alt ="home page small">
+<br/>
+<br/>
 </details>
 
 ### Set Up Instructions
