@@ -67,7 +67,7 @@ Design files according to the route and responsiveness
 <br/>
 <br/>
 <p>Winner Display Page</p>
-<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695107117/Screenshot_2023-09-19_123452_kl0iri.png" alt ="home page small">
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695107186/Screenshot_2023-09-19_123559_v0miqx.png" alt ="home page small">
 <br/>
 <br/>
 </details>
