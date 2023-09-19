@@ -21,14 +21,18 @@ Design files according to the route and responsiveness
 <p>Home Route /Welcome Page</p>
 <img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695104467/Screenshot_2023-09-19_115020_czdb82.png" alt ="home page small">
 <br/>
+<br/>
 <p>Registration Page</p>
 <img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695105119/Screenshot_2023-09-19_120136_vuw84e.png" alt ="home page small">
+<br/>
 <br/>
 <p>Round 1 and Instructions Display Page</p>
 <img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695105220/Screenshot_2023-09-19_120322_weoeor.png" alt ="home page small">
 <br/>
+<br/>
 <p>Green Light Red Light Game Page</p>
 <img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695105302/Screenshot_2023-09-19_120443_ho1nyl.png" alt ="home page small">
+<br/>
 <br/>
 <p>Game Over Display Page</p>
 <img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695105375/Screenshot_2023-09-19_120556_soswxz.png" alt ="home page small">
