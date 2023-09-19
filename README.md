@@ -16,7 +16,10 @@ Add UI reference image yourself
 <br/>
 Add the design files according to the route (if any) and responsiveness
 
-https://res.cloudinary.com/adnansayyed2321/image/upload/v1695024960/Screenshot_2023-09-18_134435_tbxh7c.png
+<div style="text-align: center;">
+     <h1>Home Route /Welcome Page</h1>
+      <img src="https://res.cloudinary.com/adnansayyed2321/image/upload/v1695024960/Screenshot_2023-09-18_134435_tbxh7c.png" alt="ui"> 
+</div>
 
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](remove this text and add the image URL here) -->
 
