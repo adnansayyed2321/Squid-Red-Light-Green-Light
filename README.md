@@ -77,7 +77,7 @@ Design files according to the route and responsiveness
 <br/>
 <br/>
 <p>Not Found Page</p>
-<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695108434/Screenshot_2023-09-19_125653_bvaedq.pngg" alt ="home page small">
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695108434/Screenshot_2023-09-19_125653_bvaedq.png" alt ="home page small">
 <br/>
 <br/>
 </details>
