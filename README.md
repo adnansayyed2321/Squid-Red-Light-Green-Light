@@ -37,11 +37,11 @@ Design files according to the route and responsiveness
 <br/>
 <br/>
 <p>Game Over Display Page</p>
-<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695105375/Screenshot_2023-09-19_120556_soswxz.png" alt ="home page small">
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695175597/Screenshot_2023-09-20_073518_mftnqy.png" alt ="home page small">
 <br/>
 <br/>
 <p>Winner Display Page</p>
-<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695105464/Screenshot_2023-09-19_120719_bbloph.png" alt ="home page small">
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695175585/Screenshot_2023-09-20_073411_czzxs2.png" alt ="home page small">
 <br/>
 <br/>
 <br/>
@@ -71,11 +71,11 @@ Design files according to the route and responsiveness
 <br/>
 <br/>
 <p>Game Over Display Page</p>
-<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695107117/Screenshot_2023-09-19_123452_kl0iri.png" alt ="home page small">
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695175595/Screenshot_2023-09-20_073434_lqsg5k.png" alt ="home page small">
 <br/>
 <br/>
 <p>Winner Display Page</p>
-<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695107186/Screenshot_2023-09-19_123559_v0miqx.png" alt ="home page small">
+<img src = "https://res.cloudinary.com/adnansayyed2321/image/upload/v1695175583/Screenshot_2023-09-20_073345_j95upw.png" alt ="home page small">
 <br/>
 <br/>
 <p>Not Found Page</p>

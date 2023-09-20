@@ -106,7 +106,7 @@ class GreenLightRedLight extends Component {
             {win ? (
               <div className="winner-main-container">
                 <div className="greeting-card">
-                  <h1 className="winner-heading">Winner</h1>
+                  <h1 className="winner-heading">You win!</h1>
                   <img
                     src="https://res.cloudinary.com/adnansayyed2321/image/upload/v1695097987/trophy-png-30582_oskni5.png"
                     alt="trophy"
@@ -124,7 +124,7 @@ class GreenLightRedLight extends Component {
             ) : (
               <div className="winner-main-container">
                 <div className="greeting-card">
-                  <h1>Game Over</h1>
+                  <h1>Game Over!</h1>
                   <button
                     type="button"
                     className="playAgainButton"
